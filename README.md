@@ -47,11 +47,12 @@ Details of the currently authenticated user.
 Authentication Handling
 The script ensures that login credentials are reused when valid, reducing unnecessary re-authentication.
 
-Summary:
-✔ Authentication is done dynamically through terminal.
-✔ Extracting all users after login.
-✔ Extracting user logged data.
-✔ Using same session for retriving data.
-✔ Storing users and logged account info locally in users.json
-✔ Extra logout functionality is provided.
-✔ Task completed 100%
+## Summary
+
+✔ Authentication is done dynamically through terminal.  
+✔ Extracting all users after login.  
+✔ Extracting user logged data.  
+✔ Using same session for retrieving data.  
+✔ Storing users and logged account info locally in users.json.  
+✔ Extra logout functionality is provided.  
+✔ Task completed 100%.
