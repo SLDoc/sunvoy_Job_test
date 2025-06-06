@@ -14,7 +14,7 @@ npm (included with Node.js)
 Clone this repository:
 
 # bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/sunvoy_job_test.git
+git clone https://github.com/SLDoc/sunvoy_job_test.git
 cd sunvoy_job_test
 # Install dependencies:
 
