@@ -21,9 +21,7 @@ cd sunvoy_job_test
 # bash
 npm install
 
-Run the script:
-
-# bash
+# Run the script: 
 npm start
 
 ## Features
