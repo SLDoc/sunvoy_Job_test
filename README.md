@@ -46,6 +46,9 @@ Details of the currently authenticated user.
 Authentication Handling
 The script ensures that login credentials are reused when valid, reducing unnecessary re-authentication.
 
+## Video
+<div style="position: relative; padding-bottom: 53.41246290801187%; height: 0;"><iframe src="https://www.loom.com/embed/cca8dac6b36644de833c3f89879ad9e4?sid=7fd7b6ab-cc5d-46e8-bc79-cdc8718f1ae0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Summary
 
 ✔ Authentication is done dynamically through terminal.  
